@@ -7,9 +7,9 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `Tutorial blog`,
+    author: `Ranvir`,
+    description: `Basic description of the blog`,
     social: [
       {
         name: `twitter`,
